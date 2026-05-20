@@ -92,4 +92,4 @@ Simulação de uma infraestrutura corporativa com múltiplos setores, segmentaç
 ---
 
 ## 👨‍💻 AUTOR
-Projeto desenvolvido por Nalberty Menese
+Projeto desenvolvido por Nalberty Meneses
