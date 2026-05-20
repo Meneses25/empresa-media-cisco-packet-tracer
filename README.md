@@ -79,15 +79,14 @@ Simulação de uma infraestrutura corporativa com múltiplos setores, segmentaç
 
 # ✅ RESULTADOS
 
-| Teste | Resultado |
-|---|---|
-| Comunicação entre VLANs | ✅ |
-| DHCP funcional | ✅ |
-| NAT funcional | ✅ |
-| DNS interno funcional | ✅ |
-| HTTP interno funcional | ✅ |
-| ACL funcionando | ✅ |
-| SSH restrito funcionando | ✅ |
+
+- Comunicação entre VLANs
+- DHCP funcional 
+- NAT funcional 
+- DNS interno funcional 
+- HTTP interno funcional
+- ACL funcionando 
+- SSH restrito funcionando 
 
 ---
 
