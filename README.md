@@ -1,11 +1,16 @@
-# 🏢 Empresa Média (Cisco Packet Tracer)
+# empresa-media-cisco-packet-tracer
+Projeto de infraestrutura corporativa no Cisco Packet Tracer com VLANs, Inter-VLAN Routing, ACL, NAT, DHCP, DNS, SSH e hardening de rede.
 
-## 🎯 Objetivo
-Simular uma infraestrutura corporativa com múltiplos setores, segmentação de rede, serviços internos e mecanismos de segurança.
+
+
+# 🌐 Empresa Média (Cisco Packet Tracer)
+
+## 📌 DESCRIÇÃO
+Simulação de uma infraestrutura corporativa com múltiplos setores, segmentação de rede, serviços internos e mecanismos de segurança.
 
 ---
 
-# 🧩 Topologia
+# 🏗️ TOPOLOGIA
 
 ## 🔹 Infraestrutura
 - 2 Roteadores
@@ -16,7 +21,7 @@ Simular uma infraestrutura corporativa com múltiplos setores, segmentação de 
 
 ---
 
-# 🌐 VLANs
+# 🔹 VLANs
 
 | VLAN | Setor | Rede |
 |---|---|---|
@@ -28,7 +33,7 @@ Simular uma infraestrutura corporativa com múltiplos setores, segmentação de 
 
 ---
 
-# ⚙️ Tecnologias Utilizadas
+# ⚙️ TECNOLOGIAS UTILIZADAS
 
 ## 🔹 Switching
 - VLAN
@@ -55,24 +60,24 @@ Simular uma infraestrutura corporativa com múltiplos setores, segmentação de 
 
 ---
 
-# 🔐 Segurança Implementada
+# 🔐 SEGURANÇA DA REDE
 
-## ✅ ACL
+## 🔹 ACL
 - Bloqueio da VLAN Recepção para a VLAN Financeiro
 
-## ✅ SSH Restrito
+## 🔹 SSH Restrito
 - Apenas a VLAN TI pode administrar os roteadores
 
-## ✅ Port Security
+## 🔹 Port Security
 - Controle de MAC Address nas portas de acesso
 
-## ✅ Hardening
+## 🔹 Hardening
 - Portas não utilizadas desativadas
 - VLAN 999 para portas ociosas
 
 ---
 
-# 🧪 Testes Realizados
+# ✅ RESULTADOS
 
 | Teste | Resultado |
 |---|---|
@@ -86,8 +91,5 @@ Simular uma infraestrutura corporativa com múltiplos setores, segmentação de 
 
 ---
 
-
-
-# 🚀 Status do Projeto
-
-✅ Concluído
+## 👨‍💻 AUTOR
+Projeto desenvolvido por Nalberty Menese
